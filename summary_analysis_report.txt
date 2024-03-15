@@ -1,0 +1,14 @@
+Summary Analysis Report:
+1. Summarization Technique Used: TextRank
+2. Evaluation Criteria: Relevancy and Coherence
+3. Summary Analysis:
+- Identified patterns: The analysis revealed recurring themes related to economic indicators and market trends across financial news articles. Additionally, a notable pattern was observed in the sentiment of summaries, with a majority of articles focusing on positive market developments.
+- Visualized summary word counts: The distribution of summary word counts showed that most summaries contained between 50 to 100 words, indicating concise and informative summarization of financial news articles.
+4. Comparison with Similar Articles: The similarity search algorithm effectively identified articles with relevant content similar to the chosen sample article. The comparison highlighted similarities in key topics and events discussed in the summaries, indicating the algorithm's ability to retrieve articles with comparable content. However, minor differences in the level of detail and perspective were observed among similar articles, suggesting variations in summarization styles and viewpoints.
+5. ROUGE Score Analysis:
+- For the chosen article with Article ID 594424, the ROUGE scores indicate high relevancy and coherence in the generated summary. The ROUGE scores for Article ID 594425 and Article ID 594426 also demonstrate similar high-quality summaries.
+- The peak of summary word count distribution, ranging from 50 to 100 words, suggests that most summaries are concise and informative.
+- Similar articles with high similarity scores, such as Article ID 594424, 616208, and 583744, exhibit strong relevance to the chosen article, further supporting the effectiveness of the similarity search algorithm in retrieving articles with similar content.
+6. Additional Insights:
+- The presence of consistently high ROUGE scores across multiple articles indicates the effectiveness of the summarization technique (TextRank) in generating relevant and coherent summaries for financial news articles.
+- The distribution of summary word counts provides valuable insights into the summarization process, indicating a preference for concise summaries within the financial news domain.
